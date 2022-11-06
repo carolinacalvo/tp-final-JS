@@ -1,0 +1,198 @@
+.color-navbar {
+    background-color: #353a40;
+}
+
+.foto-presentacion {
+    width:fit-content;
+}
+
+.brillo {
+    filter: brightness(40%);
+    max-width:100%;
+height:auto;
+}
+
+.brillos {
+  filter: brightness(40%);
+}
+
+
+
+.parent {
+    position: relative;
+}
+
+.bottom-right {
+    position: absolute;
+    left: 50%;
+    bottom: 20%;
+}
+
+
+.PL {
+    padding-right: 10%;
+    
+}
+
+.letra-img {
+    color: white;
+}
+
+.float-right {
+    float: right;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.color {
+    background-color: transparent;
+    border-color: #ccc;
+}
+
+.color2 {
+    color: white;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.border {
+    border-color: black;
+}
+
+.margin-titulo {
+    margin-top: 1em;
+}
+
+.margin-card3 {
+  margin-left: 7em;
+  margin-right:6.5em;
+}
+
+.margin-card2 {
+    margin-left: 1em;
+    margin-right:1em;
+}
+
+.tamaño-fuente {
+  font-size: small;
+} 
+
+.display-inline {
+    display: inline-block;
+}
+
+.flex-container1 {
+    display: flex;
+  flex-wrap: nowrap;
+}
+
+.flex-container1 .card {
+    width: 33.3%;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    }
+  
+  .flex-container .box {
+    width: 50%;
+    margin: 0.5px;
+    line-height: 75px;
+    
+  }
+
+  .foto-honolulu {
+    width: 100%;
+  }
+
+  .letra-blanca {
+    color: white
+  }
+
+  .bg-footer {
+    background-image: linear-gradient(to right, #1c3844, #1e5372)
+  }
+
+  .pd {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+
+
+.img-prueba {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .bg-image {
+    background-image: url(../imagenes/ba1.jpg);
+    background-size: cover;
+    background-position: center;
+    filter: brightness(40%); 
+    height: 100vh;
+  }
+
+  .color-boton {
+    background-color: #28a945;
+  }
+
+  .margen-boton {
+    margin-left: 1em;
+  }
+
+  .color-enviar {
+    background-color: #96c93e;
+  }
+
+  .bg-honolulu {
+    background-image: url(../imagenes/honolulu.jpg);
+    
+    background-position: center;
+    
+    height: 100vh;
+
+  }
+
+.no-padding {
+  padding: 0;
+
+  margin: 0;
+}
+
+div.absolute {
+  position: absolute;
+  top: 10em;
+  right: 5em;
+  width: 15em;
+  height: 10em;
+}
+
+.fondo-total {
+background-color: #cce5ff;
+}
+
+.margin-textototal {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+
+}
+
+.margen-divtotal {
+  margin-top: 0.3em;
+  margin-bottom: 2em;
+}
+
+.margin-p-form {
+  margin-bottom: 0.25em;
+  margin-top: 0.5em;
+}
